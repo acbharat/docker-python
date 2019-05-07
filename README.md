@@ -3,11 +3,11 @@
 
 ### Create Docker hub and nodes (containers)
  ```
- 	docker-compose up
+docker-compose up
  ```
 
  ### Run tests
 
  ```
- 	python Adoptdemoapptest.py
+python Adoptdemoapptest.py
  ```
